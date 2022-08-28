@@ -1,0 +1,13 @@
+p:hover{
+    background-color: #6aaa04;
+    color: #FFFF;
+}
+
+.active{
+    background-color: #4b6d97;
+    color: #FFFF;
+}
+
+.card{
+    background-color: rgba(245, 206, 8, 0.642)!important;
+}
